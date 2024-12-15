@@ -110,6 +110,6 @@ Webpack Module Federation
 
 # Задание 2
 
-Схема по ссылке:
+Схема по ссылке, см. вкладку task_2:
 
 https://github.com/n1654/architecture-sprint-1/blob/sprint_1/arch_task2.drawio
