@@ -4,12 +4,12 @@
 
 Webpack Module Federation
 При выборе между Webpack Module Federation и Single SPA, отталкиваюсь от тезиса, упомянутого в курсе, что принципиальных различий между технологиями нет.
-Далее приведу соображения за и против. 
+Далее приведу соображения за и против:
 
 | | Webpack Module Federation | Singe SPA |
 | --- | --- | --- |
-| За | Есть какой-то опыт. | |
-| Против | - | ramework agnostic - кажется избыточным на данном эпапе развития "Mesto" |
+| За | Есть какой-то опыт | |
+| Против | - | Framework agnostic - кажется избыточным на данном эпапе развития "Mesto" |
 
 ## Уровень 2
 
@@ -109,3 +109,7 @@ Webpack Module Federation
 ```
 
 # Задание 2
+
+Схема по ссылке:
+
+https://github.com/n1654/architecture-sprint-1/blob/sprint_1/arch_task2.drawio
